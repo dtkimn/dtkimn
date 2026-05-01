@@ -1,3 +1,5 @@
+![cover](./images/cover.svg)
+
 # Formatting
 **Đây là bôi đậm**
 *In nghiêng*
