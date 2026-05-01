@@ -9,16 +9,16 @@
 
 ## 😾 Documentation
 
-![](https://img.shields.io/badge/BRD-Business%20Reqs%20Document-4f6d84?logo)
+![](https://img.shields.io/badge/BRD-Business%20Requirements%20Document-4f6d84?logo)
 ![](https://img.shields.io/badge/BFD-4f6d84)
-![](https://img.shields.io/badge/Functional%20Req-4f6d84)
+![](https://img.shields.io/badge/Functional-4f6d84)
 ![](https://img.shields.io/badge/User%20Story-4f6d84)
 ![](https://img.shields.io/badge/Activity%20Diagram/BPMN-4f6d84)
 ![](https://img.shields.io/badge/Use%20Case%20Spec-4f6d84)
 ![](https://img.shields.io/badge/UI%20Desc-4f6d84)
-![](https://img.shields.io/badge/Non--Functional%20Req-4f6d84)
+![](https://img.shields.io/badge/Non--Functional-4f6d84)
 
-![](https://img.shields.io/badge/SRS-Software%20Reqs%20Specification-ad7d8c?logo)
+![](https://img.shields.io/badge/SRS-Software%20Requirements%20Specification-ad7d8c?logo)
 ![](https://img.shields.io/badge/Table%20Desc-ad7d8c)
 ![](https://img.shields.io/badge/ERD-ad7d8c)
 ![](https://img.shields.io/badge/UI%20Spec-ad7d8c)
