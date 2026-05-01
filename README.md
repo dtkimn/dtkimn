@@ -1,11 +1,26 @@
 ![cover](./images/cover.svg)
 
-# Xin chao, my name is Nhung 🐱
+# Xin chao, my name is Nhung 🙀
 
 ## 😼 Experience
 
 
-## 🙀 Domains
+## 🐱 Domains
+![](https://img.shields.io/badge/OLTP%20&%20OLAP-Banking-4f6d84?logo)
+![](https://img.shields.io/badge/HRM-4f6d84)
+![](https://img.shields.io/badge/BPM-4f6d84)
+![](https://img.shields.io/badge/BI-4f6d84)
+![](https://img.shields.io/badge/Data%20Governance-4f6d84)
+![](https://img.shields.io/badge/Gateway-4f6d84)
+![](https://img.shields.io/badge/Data%20Warehouse-4f6d84)
+
+![](https://img.shields.io/badge/OLTP%20&%20OLAP-Information%20Technology-ad7d8c?logo)
+![](https://img.shields.io/badge/AI-ad7d8c)
+![](https://img.shields.io/badge/CRM-ad7d8c)
+![](https://img.shields.io/badge/HRM-ad7d8c)
+
+![](https://img.shields.io/badge/OLTP%20&%20OLAP-Human%20Resources-829aad?logo)
+![](https://img.shields.io/badge/HRM-829aad)
 
 ## 😾 Documentation
 
