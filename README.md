@@ -3,7 +3,17 @@
 # Xin chao, my name is Nhung 🙀
 
 ## 😼 Experience
+🌳 Mid-level **Business Data Analyst** at [NGV](https://ngvgroup.vn/gioi-thieu-cong-ty-co-phan-ngv/) `(Mar 2024 - Present)`.
 
+🌱 Junior **IT Business Analyst** at [MobiFone IT](https://it.mobifone.vn/gioi-thieu) `(Nov 2022 - Nov 2023)`.
+
+🌱 Junior **IT Business Analyst** at [TopCV](https://www.topcv.vn/brand/topcv/gioi-thieu) `(Jul 2022 - Oct 2022)`.
+
+🌿 Fresher **IT Business Analyst** at [Viettel AI](https://viettelai.vn/ve-chung-toi) `(Oct 2021 - May 2022)`.
+
+🌿 **IT Business Analyst** Intern at [ETC](https://www.etc.vn/ve-chung-toi) `(Jul 2021 - Aug 2021, 2 weeks)`.
+
+🌿 **IT Business Analyst** Intern at [Tech Moss](https://techmoss.net/gioi-thieu/) `(Jun 2021 - Jul 2021, 1 month)`.
 
 ## 🐱 Domains
 ![](https://img.shields.io/badge/OLTP%20&%20OLAP-Banking-4f6d84?logo)
