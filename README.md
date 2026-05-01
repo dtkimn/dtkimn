@@ -2,25 +2,38 @@
 
 # Xin chao, my name is Nhung 🐱
 
-## 🕐 Experience
+## 😼 Experience
 
 
-## 🕑 Skills
+## 🙀 Domains
 
-### 📄 Documentation
+## 😾 Documentation
 
 ![](https://img.shields.io/badge/BRD-Business%20Requirement%20Document-4f6d84?logo)
-![](https://img.shields.io/badge/Use%20Case-4f6d84?logo)
+![](https://img.shields.io/badge/BFD-4f6d84)
+![](https://img.shields.io/badge/Functional%20Req-4f6d84)
+![](https://img.shields.io/badge/User%20Story-4f6d84)
+![](https://img.shields.io/badge/Activity%20Diagram/BPMN-4f6d84)
+![](https://img.shields.io/badge/Use%20Case%20Spec-4f6d84)
+![](https://img.shields.io/badge/UI%20Desc-4f6d84)
+![](https://img.shields.io/badge/Non--Functional%20Req-4f6d84)
 
 ![](https://img.shields.io/badge/SRS-Software%20Requirements%20Specification-ad7d8c?logo)
+![](https://img.shields.io/badge/Table%20Desc-ad7d8c)
+![](https://img.shields.io/badge/ERD-ad7d8c)
+![](https://img.shields.io/badge/UI%20Spec-ad7d8c)
 
 ![](https://img.shields.io/badge/DDD-Database%20Design%20Document-829aad?logo)
+![](https://img.shields.io/badge/Table%20Desc-829aad)
+![](https://img.shields.io/badge/ERD-829aad)
+![](https://img.shields.io/badge/Data%20Dictionary-829aad)
 
 ![](https://img.shields.io/badge/UM-User%20Manual%20-e8d5d5?logo)
+![](https://img.shields.io/badge/Functional%20Desc-e8d5d5)
 
-### 📄 Documentation
+## 📄 Documentation
 
-### 📄 Documentation
+## 📄 Documentation
 
 ## 🕒 Education
 <p>
