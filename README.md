@@ -32,6 +32,9 @@
 ![](https://img.shields.io/badge/OLTP%20&%20OLAP-Human%20Resources-829aad?logo)
 ![](https://img.shields.io/badge/HRM-829aad)
 
+![](https://img.shields.io/badge/OLTP%20&%20OLAP-Healthcare-e8d5d5?logo)
+![](https://img.shields.io/badge/HRM-e8d5d5)
+
 ## 😾 Documentation
 
 ![](https://img.shields.io/badge/BRD-Business%20Requirements%20Document-4f6d84?logo)
@@ -53,7 +56,7 @@
 ![](https://img.shields.io/badge/ERD-829aad)
 ![](https://img.shields.io/badge/Data%20Dictionary-829aad)
 
-![](https://img.shields.io/badge/UM-User%20Manual%20-e8d5d5?logo)
+![](https://img.shields.io/badge/UM-User%20Manual-e8d5d5?logo)
 ![](https://img.shields.io/badge/Functional%20Desc-e8d5d5)
 
 ## 📄 Documentation
