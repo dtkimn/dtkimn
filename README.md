@@ -1,6 +1,34 @@
 ![cover](./images/cover.svg)
 
-# Formatting
+# Xin chao, my name is Nhung 🐱
+
+## 🕐 Experience
+
+
+## 🕑 Skills
+
+### 📄 Documentation
+
+![](https://img.shields.io/badge/BRD-Business%20Requirement%20Document-4f6d84?logo)
+![](https://img.shields.io/badge/Use%20Case-4f6d84?logo)
+
+![](https://img.shields.io/badge/SRS-Software%20Requirements%20Specification-ad7d8c?logo)
+
+![](https://img.shields.io/badge/DDD-Database%20Design%20Document-829aad?logo)
+
+![](https://img.shields.io/badge/UM-User%20Manual%20-e8d5d5?logo)
+
+### 📄 Documentation
+
+### 📄 Documentation
+
+## 🕒 Education
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+</p>
+
 **Đây là bôi đậm**
 *In nghiêng*
 ~~Gạch ngang~~
