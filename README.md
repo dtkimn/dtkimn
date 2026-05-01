@@ -59,80 +59,25 @@
 ![](https://img.shields.io/badge/UM-User%20Manual-e8d5d5?logo)
 ![](https://img.shields.io/badge/Functional%20Desc-e8d5d5)
 
-## 📄 Documentation
+## 😿 Data Governance (DAMA-DMBOK2)
+![](https://img.shields.io/badge/Data%20Modeling%20&%20Design-4f6d84)
+![](https://img.shields.io/badge/Reference%20&%20Master%20Data-ad7d8c)
+![](https://img.shields.io/badge/Data%20Warehousing%20&%20Business%20Intelligence-829aad)
+![](https://img.shields.io/badge/Metadata-e8d5d5)
+![](https://img.shields.io/badge/Data%20Quality-ffdcca)
 
-## 📄 Documentation
+## 😻 SQL
+![](https://img.shields.io/badge/Oracle-PL/SQL-4f6d84?logo)
+![](https://img.shields.io/badge/PostgreSQL-PL/pgSQL-ad7d8c)
+![](https://img.shields.io/badge/MySQL-MySQL-829aad)
+![](https://img.shields.io/badge/Microsoft%20SQL%20Server-T--SQL-e8d5d5)
 
-## 🕒 Education
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-</p>
-
-**Đây là bôi đậm**
-*In nghiêng*
-~~Gạch ngang~~
-Một đoạn văn `thông thường`
-> Đây là một `quotation`
-
-# Table
-| #   | Title 1   | Title 2   | Title 2 |
-| --- | --------- | --------- | ------: |
-| 1   | Content 1 | Content 2 |       2 |
-| 2   | Content 1 | Content 2 |       2 |
-| 3   | Content 1 | Content 2 |       2 |
-| 4   | Content 1 | Content 2 |       2 |
-
-# Code stype
-
-```php
-#php
-echo 1
-```
-
-```sql
---sql
-select * from table where abc = 1 and bcd = 'hello'
-```
-
-```js
-//js
-console.log(111)
-console.log("Hello")
-```
-
-# Image
-![![](2026-05-01-13-02-43.png)](image.png)
-
-# Chart
-## Mermaid
-
-```mermaid
----
-title: Bank example
----
-classDiagram
-    class BankAccount
-    BankAccount : +String owner
-    BankAccount : +Bigdecimal balance
-    BankAccount : +deposit(amount)
-    BankAccount : +withdrawal(amount)
-```
-
-## PlantUML
-
-```plantuml
-@startuml
-:User: --> (Use)
-"Main Admin" as Admin
-"Use the application" as (Use)
-Admin --> (Admin the application)
-@enduml
-```
-
-# Calculation Formula
-
-$y=x^2$
-
-# Import file
+## 😹 Testing
+![](https://img.shields.io/badge/ETL/ELT-4f6d84)
+![](https://img.shields.io/badge/REST%20API-ad7d8c)
+![](https://img.shields.io/badge/Black--box-829aad)
+![](https://img.shields.io/badge/BVA-829aad)
+![](https://img.shields.io/badge/ECP-829aad)
+![](https://img.shields.io/badge/Pairwise-829aad)
+![](https://img.shields.io/badge/Decision%20Table-829aad)
+![](https://img.shields.io/badge/State%20Transition-829aad)
