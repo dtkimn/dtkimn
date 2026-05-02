@@ -66,7 +66,7 @@
 ![](https://img.shields.io/badge/Metadata-e8d5d5)
 ![](https://img.shields.io/badge/Data%20Quality-ffdcca)
 
-## 😻 SQL
+## 😸 SQL
 ![](https://img.shields.io/badge/Oracle-PL/SQL-4f6d84?logo)
 ![](https://img.shields.io/badge/PostgreSQL-PL/pgSQL-ad7d8c)
 ![](https://img.shields.io/badge/MySQL-MySQL-829aad)
